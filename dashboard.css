@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    background-color: hsl(114, 90%, 48%, 0.3);
+}
+
+.navbartext {
+    display: flex;
+    text-size-adjust: 30%;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid hsl(114, 90%, 47%, 0.3);
+    box-sizing: border-box;
+}
+
+button {
+    background-color: hsl(114, 90%, 48%, 0.3);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+
+/* Add a hover effect for
